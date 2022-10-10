@@ -1,5 +1,4 @@
-
-//THIS PROGRAM PREPARED BY HARSH DUDHAT 21CE026 
+//THIS PROGRAM IS DONE BY JYOT DELVADIYA 21CE023 
 // Design a class named Account that contains: 
 //  · A private int data field named id for the account (default 0). 
 //  · A private double data field named balance for the account (default 0) 

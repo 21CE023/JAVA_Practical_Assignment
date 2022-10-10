@@ -1,5 +1,4 @@
-
-//THIS PROGRAM PREPARED BY HARSH DUDHAT 21CE026 
+//THIS PROGRAM IS DONE BY JYOT DELVADIYA 21CE023 
 // 13) (Display nonduplicate names in ascending order) Given one or more text files, each 
 // representing a day’s attendance in a course and containing the names of the students 
 // who attended the course on that particular day, write a program that displays, in 

@@ -1,5 +1,4 @@
-
-//THIS PROGRAM PREPARED BY HARSH DUDHAT 21CE026 
+//THIS PROGRAM IS DONE BY JYOT DELVADIYA 21CE023 
 // 12) Create an Association class that encapsulates two objects of different types. Similar 
 // to Exercise above, create a Transition class that does the same of Association class 
 // with three objects.

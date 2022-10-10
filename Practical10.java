@@ -1,4 +1,4 @@
-//THIS PROGRAM PREPARED BY HARSH DUDHAT 21CE026 
+//THIS PROGRAM IS DONE BY JYOT DELVADIYA 21CE023 
 // 10) Define a class named ComparableSquare that extends Square and implements 
 // Comparable. Implement the compareTo method to compare the Squares on the basis 
 // of area. Write a test class to find the larger of two instances of 

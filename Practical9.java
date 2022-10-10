@@ -1,5 +1,4 @@
-
-//THIS PROGRAM PREPARED BY HARSH DUDHAT 21CE026 
+//THIS PROGRAM IS DONE BY JYOT DELVADIYA 21CE023 
 // 9) Design an interface named Colorable with a void method named howToColor(). 
 // Every class of a colorable object must implement the Colorable interface. Design a 
 // class named Square that extends GeometricObject and implements Colorable. 

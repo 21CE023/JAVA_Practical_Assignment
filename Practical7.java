@@ -1,4 +1,4 @@
-//THIS PROGRAM PREPARED BY HARSH DUDHAT 21CE026 
+//THIS PROGRAM IS DONE BY JYOT DELVADIYA 21CE023 
 // Write a method public static int readInFile(String line, File file) that returns the 
 // position number of a line in the file filename or −1 if there is no such line or file. 
 // Assume that this file contains names of people with a name per line. Names (and 

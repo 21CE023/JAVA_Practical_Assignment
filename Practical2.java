@@ -1,4 +1,4 @@
-//THIS PROGRAM PREPARED BY HARSH DUDHAT 21CE026 
+//THIS PROGRAM IS DONE BY JYOT DELVADIYA 21CE023 
 // In an n-sided regular polygon, all sides have the same length and all angles have the 
 // same degree (i.e., the polygon is both equilateral and equiangular). Design a class 
 // named RegularPolygon that contains: 

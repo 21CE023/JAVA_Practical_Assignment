@@ -1,6 +1,4 @@
- 
-
-//THIS PROGRAM PREPARED BY HARSH DUDHAT 21CE026 
+//THIS PROGRAM IS DONE BY JYOT DELVADIYA 21CE023 
 // 11) Create a Triplet class that encapsulates three objects of the same data type in a given 
 // instance of Triplet. 
 import java.util.ArrayList; 
